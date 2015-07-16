@@ -1,4 +1,6 @@
 # tsl2561-rb
+[![Code Climate](https://codeclimate.com/github/jannvck/tsl2561-rb/badges/gpa.svg)](https://codeclimate.com/github/jannvck/tsl2561-rb)
+
 TAOS TSL2561 lightsensor ruby library
 
 Straightforward to use:
